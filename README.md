@@ -1,4 +1,4 @@
 SCRAPPER
 --------
 
-just scrappy.py, a python script for scrapping the ESIP-envirosensing website and converting the scrapped files to PDF. You may need to install additional python packages to make this work. I probably won't make many modifications to this, but wanted it to be available for others.
+A simple script in python to scrape the ESIP Envirosensing website into PDF files. We use them for our monthly archives. The site is hard coded into this program, but it's easy to tell where, and you could easily reuse this structure for just about any site. It's a huge timesaver for me!
